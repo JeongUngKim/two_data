@@ -1,6 +1,14 @@
 # two_data
 ##### TMDB API 를 활용하여 Two 프로젝트에 맞게 가공한 데이터 입니다.
 
+# 파일
+##### 콘텐츠 기반 추천 시스템
+##### 협업 필터링 기반 추천 시스템
+##### 배우데이터
+##### 영화 & tv 프로그램 데이터
+##### 장르 데이터
+##### 유저 별점 정보
+
 # 사용툴
 <img src="https://img.shields.io/badge/Jupyter notebook-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white">
 
@@ -14,5 +22,5 @@
 [개인 블로그](https://mokokodevelop.tistory.com/)
 
 [Git Android](https://github.com/JeongUngKim/two_android)
-s
+
 [Git Server](https://github.com/JeongUngKim/two_server)
