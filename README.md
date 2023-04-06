@@ -9,9 +9,10 @@
 <img src="https://img.shields.io/badge/pandas-#150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 # Two project
-[프로젝트 기술서]<https://docs.google.com/presentation/d/15-k1CT7EKAuUfHQJx0JjaOumrA9fjtMtEV-Im7HRj-s/edit>
+[프로젝트 기술서](https://docs.google.com/presentation/d/15-k1CT7EKAuUfHQJx0JjaOumrA9fjtMtEV-Im7HRj-s/edit)
 
-[개인 블로그]<https://mokokodevelop.tistory.com/>
+[개인 블로그](https://mokokodevelop.tistory.com/)
 
-[Git Android]<https://github.com/JeongUngKim/two_android>
-[Git Server]<https://github.com/JeongUngKim/two_server>
+[Git Android](https://github.com/JeongUngKim/two_android)
+s
+[Git Server](https://github.com/JeongUngKim/two_server)
